@@ -10,7 +10,8 @@
       "DesignPattern\\Observer\\": "Behavioral/Observer/",
       "DesignPattern\\Adapter\\": "Structural/Adapter",
       "DesignPattern\\Bridge\\": "Structural/Bridge",
-      "DesignPattern\\Composite\\": "Structural/Composite"
+      "DesignPattern\\Composite\\": "Structural/Composite",
+      "DesignPattern\\Facade\\": "Structural/Facade"
     },
     "classmap": [
       "Creational",
