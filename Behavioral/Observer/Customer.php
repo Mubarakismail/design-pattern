@@ -1,6 +1,6 @@
 <?php
 
-require 'Subscriber.php';
+namespace DesignPattern\Behavioral\Observer;
 
 class Customer implements Subscriber
 {

@@ -1,5 +1,6 @@
 <?php
 
+namespace DesignPattern\Behavioral\Observer;
 class Offer
 {
     private string $message;

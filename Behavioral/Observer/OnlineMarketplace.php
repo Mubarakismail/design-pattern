@@ -1,9 +1,6 @@
 <?php
 
-require 'Customer.php';
-require 'Product.php';
-require 'Offer.php';
-require 'EventType.php';
+namespace DesignPattern\Behavioral\Observer;
 
 class OnlineMarketplace
 {

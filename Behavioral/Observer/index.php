@@ -1,6 +1,13 @@
 <?php
 
-require 'OnlineMarketplace.php';
+require_once __DIR__ . '/../../vendor/autoload.php';
+
+use DesignPattern\Behavioral\Observer\Customer;
+use DesignPattern\Behavioral\Observer\EventType;
+use DesignPattern\Behavioral\Observer\Offer;
+use DesignPattern\Behavioral\Observer\OnlineMarketplace;
+use DesignPattern\Behavioral\Observer\Product;
+
 
 $onlineMarketplace = new OnlineMarketplace();
 

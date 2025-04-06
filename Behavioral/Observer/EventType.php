@@ -1,5 +1,6 @@
 <?php
 
+namespace DesignPattern\Behavioral\Observer;
 enum EventType
 {
     case NEW_PRODUCT;
