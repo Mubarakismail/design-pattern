@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral/Observer" isTestSource="false" packagePrefix="DesignPattern\Observer\" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational/Builder" isTestSource="false" packagePrefix="DesignPattern\Builder\" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational/Factory" isTestSource="false" packagePrefix="DesignPattern\Factory\" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational/Prototype" isTestSource="false" packagePrefix="DesignPattern\Prototype\" />
+      <sourceFolder url="file://$MODULE_DIR$/Creational/Singleton" isTestSource="false" packagePrefix="DesignPattern\Singleton\" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural/Adapter" isTestSource="false" packagePrefix="DesignPattern\Adapter\" />
+      <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>

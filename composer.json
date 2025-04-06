@@ -1,0 +1,25 @@
+{
+  "name": "mubarak/design-patterns-php",
+  "description": "design and implementations of design patterns examples in php",
+  "autoload": {
+    "psr-4": {
+      "DesignPattern\\Singleton\\": "Creational/Singleton/",
+      "DesignPattern\\Factory\\": "Creational/Factory/",
+      "DesignPattern\\Builder\\": "Creational/Builder/",
+      "DesignPattern\\Prototype\\": "Creational/Prototype/",
+      "DesignPattern\\Observer\\": "Behavioral/Observer/",
+      "DesignPattern\\Adapter\\": "Structural/Adapter",
+      "DesignPattern\\Bridge\\": "Structural/Bridge"
+    },
+    "classmap": [
+      "Creational",
+      "Behavioral"
+    ]
+  },
+  "authors": [
+    {
+      "name": "Mubarak Ismail"
+    }
+  ],
+  "require": {}
+}
