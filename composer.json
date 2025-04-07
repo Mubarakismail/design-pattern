@@ -11,7 +11,8 @@
       "DesignPattern\\Adapter\\": "Structural/Adapter",
       "DesignPattern\\Bridge\\": "Structural/Bridge",
       "DesignPattern\\Composite\\": "Structural/Composite",
-      "DesignPattern\\Facade\\": "Structural/Facade"
+      "DesignPattern\\Facade\\": "Structural/Facade",
+      "DesignPattern\\Proxy\\": "Structural/Proxy"
     },
     "classmap": [
       "Creational",

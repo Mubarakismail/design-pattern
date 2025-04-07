@@ -8,6 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Creational/Prototype" isTestSource="false" packagePrefix="DesignPattern\Prototype\" />
       <sourceFolder url="file://$MODULE_DIR$/Creational/Singleton" isTestSource="false" packagePrefix="DesignPattern\Singleton\" />
       <sourceFolder url="file://$MODULE_DIR$/Structural/Adapter" isTestSource="false" packagePrefix="DesignPattern\Adapter\" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural/Bridge" isTestSource="false" packagePrefix="DesignPattern\Bridge\" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural/Composite" isTestSource="false" packagePrefix="DesignPattern\Composite\" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural/Facade" isTestSource="false" packagePrefix="DesignPattern\Facade\" />
+      <sourceFolder url="file://$MODULE_DIR$/Structural/Proxy" isTestSource="false" packagePrefix="DesignPattern\Proxy\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />
