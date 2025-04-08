@@ -28,8 +28,8 @@ Structural patterns deal with object composition, ensuring that if one part of a
 
 ## Behavioral Patterns
 
-[//]: # ()
-[//]: # (Behavioral patterns focus on communication between objects, what goes on between objects, and how they operate together.)
+
+Behavioral patterns focus on communication between objects, what goes on between objects, and how they operate together.
 
 
 - **Chain of Responsibility**: Passes a request along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.
