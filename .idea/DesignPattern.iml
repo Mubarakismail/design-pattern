@@ -12,6 +12,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Structural/Composite" isTestSource="false" packagePrefix="DesignPattern\Composite\" />
       <sourceFolder url="file://$MODULE_DIR$/Structural/Facade" isTestSource="false" packagePrefix="DesignPattern\Facade\" />
       <sourceFolder url="file://$MODULE_DIR$/Structural/Proxy" isTestSource="false" packagePrefix="DesignPattern\Proxy\" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral/Chain of Responsibility" isTestSource="false" packagePrefix="DesignPattern\ChainOfResponsibility\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />

@@ -12,7 +12,8 @@
       "DesignPattern\\Bridge\\": "Structural/Bridge",
       "DesignPattern\\Composite\\": "Structural/Composite",
       "DesignPattern\\Facade\\": "Structural/Facade",
-      "DesignPattern\\Proxy\\": "Structural/Proxy"
+      "DesignPattern\\Proxy\\": "Structural/Proxy",
+      "DesignPattern\\ChainOfResponsibility\\": "Behavioral/Chain of Responsibility"
     },
     "classmap": [
       "Creational",

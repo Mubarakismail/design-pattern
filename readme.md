@@ -26,13 +26,13 @@ Structural patterns deal with object composition, ensuring that if one part of a
 
 - **Facade**: Provides a simplified interface to a larger body of code, such as a complex subsystem.
 
-[//]: # (## Behavioral Patterns)
+## Behavioral Patterns
 
 [//]: # ()
 [//]: # (Behavioral patterns focus on communication between objects, what goes on between objects, and how they operate together.)
 
-[//]: # ()
-[//]: # (- **Chain of Responsibility**: Passes a request along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.)
+
+- **Chain of Responsibility**: Passes a request along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.
 
 [//]: # ()
 [//]: # (- **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.)
