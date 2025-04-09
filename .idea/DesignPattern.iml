@@ -13,6 +13,8 @@
       <sourceFolder url="file://$MODULE_DIR$/Structural/Facade" isTestSource="false" packagePrefix="DesignPattern\Facade\" />
       <sourceFolder url="file://$MODULE_DIR$/Structural/Proxy" isTestSource="false" packagePrefix="DesignPattern\Proxy\" />
       <sourceFolder url="file://$MODULE_DIR$/Behavioral/Chain of Responsibility" isTestSource="false" packagePrefix="DesignPattern\ChainOfResponsibility\" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral/Command" isTestSource="false" packagePrefix="DesignPattern\Command\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />

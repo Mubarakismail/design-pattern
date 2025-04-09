@@ -34,8 +34,8 @@ Behavioral patterns focus on communication between objects, what goes on between
 
 - **Chain of Responsibility**: Passes a request along a chain of handlers. Each handler decides either to process the request or to pass it to the next handler in the chain.
 
-[//]: # ()
-[//]: # (- **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.)
+
+- **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.
 
 [//]: # ()
 [//]: # (- **Iterator**: Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.)

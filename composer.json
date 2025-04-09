@@ -13,7 +13,8 @@
       "DesignPattern\\Composite\\": "Structural/Composite",
       "DesignPattern\\Facade\\": "Structural/Facade",
       "DesignPattern\\Proxy\\": "Structural/Proxy",
-      "DesignPattern\\ChainOfResponsibility\\": "Behavioral/Chain of Responsibility"
+      "DesignPattern\\ChainOfResponsibility\\": "Behavioral/Chain of Responsibility",
+      "DesignPattern\\Command\\": "Behavioral/Command"
     },
     "classmap": [
       "Creational",
