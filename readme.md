@@ -37,8 +37,9 @@ Behavioral patterns focus on communication between objects, what goes on between
 
 - **Command**: Encapsulates a request as an object, thereby allowing for parameterization of clients with different requests, queuing of requests, and logging of the requests.
 
-[//]: # ()
-[//]: # (- **Iterator**: Provides a way to access the elements of an aggregate object sequentially without exposing its underlying representation.)
+
+- **Iterator**: Provides a way to access the elements of an aggregate object sequentially without exposing its
+  underlying representation.
 
 [//]: # ()
 [//]: # (- **Mediator**: Defines an object that encapsulates how a set of objects interact, promoting loose coupling by preventing objects from referring to each other explicitly.)
