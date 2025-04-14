@@ -14,7 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Structural/Proxy" isTestSource="false" packagePrefix="DesignPattern\Proxy\" />
       <sourceFolder url="file://$MODULE_DIR$/Behavioral/Chain of Responsibility" isTestSource="false" packagePrefix="DesignPattern\ChainOfResponsibility\" />
       <sourceFolder url="file://$MODULE_DIR$/Behavioral/Command" isTestSource="false" packagePrefix="DesignPattern\Command\" />
-      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/Behavioral/Iterator" isTestSource="false" packagePrefix="DesignPattern\Iterator\" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
     </content>
     <orderEntry type="inheritedJdk" />

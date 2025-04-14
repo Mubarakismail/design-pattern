@@ -14,7 +14,8 @@
       "DesignPattern\\Facade\\": "Structural/Facade",
       "DesignPattern\\Proxy\\": "Structural/Proxy",
       "DesignPattern\\ChainOfResponsibility\\": "Behavioral/Chain of Responsibility",
-      "DesignPattern\\Command\\": "Behavioral/Command"
+      "DesignPattern\\Command\\": "Behavioral/Command",
+      "DesignPattern\\Iterator\\": "Behavioral/Iterator"
     },
     "classmap": [
       "Creational",
